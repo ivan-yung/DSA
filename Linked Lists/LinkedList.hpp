@@ -1,7 +1,6 @@
 #ifndef LINKED_LIST_HPP
 #define LINKED_LIST_HPP
 
-// DO NOT CHANGE THIS FILE
 
 #include <cstddef>
 #include <optional>
